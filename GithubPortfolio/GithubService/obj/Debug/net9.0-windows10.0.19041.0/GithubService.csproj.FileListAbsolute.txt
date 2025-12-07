@@ -1,0 +1,15 @@
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\bin\Debug\net9.0-windows10.0.19041.0\GithubService.deps.json
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\bin\Debug\net9.0-windows10.0.19041.0\GithubService.dll
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\bin\Debug\net9.0-windows10.0.19041.0\GithubService.pdb
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\bin\Debug\net9.0-windows10.0.19041.0\Microsoft.Web.WebView2.Core.dll
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\bin\Debug\net9.0-windows10.0.19041.0\Microsoft.Web.WebView2.Core.Projection.dll
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\GithubService.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\GithubService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\GithubService.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\GithubService.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\GithubService.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\GithubSe.938A2E42.Up2Date
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\GithubService.dll
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\refint\GithubService.dll
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\GithubService.pdb
+C:\Users\user1\Documents\תכנות\שנה ב\פרקטיקוד\lesson5\GithubPortfolio\GithubService\obj\Debug\net9.0-windows10.0.19041.0\ref\GithubService.dll
